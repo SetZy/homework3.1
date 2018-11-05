@@ -1,0 +1,25 @@
+
+.monitor-bar-item {
+	
+	list-style: none;
+	width: 200px;
+	height: 30px;
+	background: #ccc;
+	margin: 10px 0;
+	text-align: center;
+	line-height: 30px;
+}
+.monitor-bar-progress {
+	
+	width: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	background: #229954;
+}
+.attention {
+	background: orange;
+}
+.alarm {
+	background: red;
+}
